@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-qiniu",
+  "name": "nodebb-plugin-qn",
   "version": "1.0.0",
   "description": "A Plugin that uploads images to qiniu",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Samurais/nodebb-plugin-qiniu"
+    "url": "https://github.com/Samurais/nodebb-plugin-qn"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,11 +13,12 @@
   "keywords": [
     "nodebb",
     "plugin",
-    "imgur"
+    "qiniu"
   ],
   "author": "Hai Liang Wang <hailiang.hl.wang@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "q": "^1.4.1",
     "qn": "^1.2.0",
     "request": "^2.48.0",
     "winston": "~0.8.3"

@@ -1,8 +1,8 @@
 {
-    "id": "nodebb-plugin-qiniu",
+    "id": "nodebb-plugin-qn",
     "name": "Qiniu Upload Plugin",
     "description": "A Plugin that uploads images to qiniu",
-    "url": "https://github.com/Samurais/nodebb-plugin-qiniu",
+    "url": "https://github.com/Samurais/nodebb-plugin-qn",
     "library": "./index.js",
     "staticDirs": {
         "imgur": "public"
