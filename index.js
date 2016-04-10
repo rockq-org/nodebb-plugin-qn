@@ -1,6 +1,5 @@
 'use strict';
 
-var request = require('request');
 var winston = require('winston');
 var fs = require('fs');
 var nconf = require.main.require('nconf');
