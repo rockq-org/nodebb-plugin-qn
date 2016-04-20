@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-qn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Plugin that uploads images to qiniu",
   "main": "index.js",
   "repository": {
